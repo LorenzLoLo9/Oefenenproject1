@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oefenenproject1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aec48a07998abf329a53b7171eb8147ce51d9730")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f5edbd0e29199fdb0860ecab48396f9fce4c8bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oefenenproject1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oefenenproject1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
